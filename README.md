@@ -25,4 +25,4 @@ ____
 ### Демонстрация визуальных эффектов
 ![](https://img.itch.zone/aW1nLzE2MDM2MzA2LmdpZg==/original/Jn6GAk.gif)
 ____
-### [Ознакомиться с игрой поближе](https://tsa-productions-indie.itch.io/3d-rasing-demo)
+### [Ознакомиться с игрой поближе можно на сайте itch.io](https://tsa-productions-indie.itch.io/3d-rasing-demo), либо скачать архив из Releases.
